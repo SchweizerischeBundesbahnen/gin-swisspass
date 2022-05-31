@@ -30,7 +30,7 @@ Gin-Swisspass is expressive, flexible, and very easy to use. It allows you to:
 
 Assuming you've installed Go and Gin, run this, or just import it and let go modules do the rest
 
-    go get code.sbb.ch/ki_sjm/gin-swisspass
+    go get github.com/schweizerischebundesbahnen/gin-swisspass
     
 
 ## Usage

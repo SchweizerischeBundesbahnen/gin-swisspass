@@ -1,9 +1,9 @@
 package gin_swisspass
 
 import (
-	"code.sbb.ch/ki_sjm/gin-swisspass/pkg/swisspass.authenticator"
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
+	"github.com/schweizerischebundesbahnen/gin-swisspass/pkg/swisspass.authenticator"
 	log "github.com/sirupsen/logrus"
 	"net/http"
 )
